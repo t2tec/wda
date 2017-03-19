@@ -6,16 +6,18 @@ The 2016 Weather Data Exploratory Analysis project was started to review the raw
 
 This project is designed to analyze NOAA observation stations across the planet that record temperature data in terms of:
 
-Geographic density of stations
-Geographic diversity of stations
-Consistency of station reporting
-Completeness of station observations
++ Geographic density of stations
++ Geographic diversity of stations
++ Consistency of station reporting
++ Completeness of station observations
+
 The anaylsis also includes a review of the raw weather data used by NOAA for the year 2016 in terms of:
 
-Geographic density of observations
-Geographic diversity of observations
-Consistency of observations
-Completeness of observations
++ Geographic density of observations
++ Geographic diversity of observations
++ Consistency of observations
++ Completeness of observations
+
 Finally, the project will review the methodologies used by NOAA to determine their appropriateness, effectiveness, and scientific validity.
 
 ## Reproducability
